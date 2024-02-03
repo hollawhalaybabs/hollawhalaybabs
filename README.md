@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hollawhalaybabs
 - 👀 I’m interested in OdooERP and python
-- 🌱 I’m currently learning google IT automation wity python
+- 🌱 I’m currently learning google IT automation with python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
